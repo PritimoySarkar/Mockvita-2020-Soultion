@@ -1,5 +1,5 @@
 T=int(input())
-for i in range(T):
+for j in range(T):
     n=int(input())
     sum=1
     count=1
